@@ -2792,6 +2792,18 @@
 		(layer "Edge.Cuts")
 		(uuid "f9fc532d-c276-4b20-8464-05e4eef09b1f")
 	)
+	(gr_text "    |\\__/,|  (`\\\n  _.|o o  |_  ) )\n-(((---(((-----"
+		(at 160.5 96 0)
+		(layer "B.SilkS")
+		(uuid "82f6ba58-b178-4bf3-9988-79336dbfb787")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "To: Ezzat\nFrom: Cal"
 		(at 179 86 0)
 		(layer "B.SilkS")
