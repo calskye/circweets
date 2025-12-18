@@ -491,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "seal_gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
